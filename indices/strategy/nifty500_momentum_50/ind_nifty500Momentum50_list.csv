@@ -1,51 +1,51 @@
 Company Name,Industry,Symbol,Series,ISIN Code
-ANGELONE,Financial Services,ANGELONE,EQ,INE732I01013
-APARINDS,Capital Goods,APARINDS,EQ,INE372A01015
-AUROPHARMA,Healthcare,AUROPHARMA,EQ,INE406A01037
-BHEL,Capital Goods,BHEL,EQ,INE257A01026
-BSE,Financial Services,BSE,EQ,INE118H01025
-BSOFT,Information Technology,BSOFT,EQ,INE836A01035
-CDSL,Financial Services,CDSL,EQ,INE736A01011
-COCHINSHIP,Capital Goods,COCHINSHIP,EQ,INE704P01025
-CYIENT,Information Technology,CYIENT,EQ,INE136B01020
-ECLERX,Services,ECLERX,EQ,INE738I01010
-FACT,Chemicals,FACT,EQ,INE188A01015
-GICRE,Financial Services,GICRE,EQ,INE481Y01014
-GPIL,Capital Goods,GPIL,EQ,INE177H01021
-HAL,Capital Goods,HAL,EQ,INE066F01020
-IRCON,Construction,IRCON,EQ,INE962Y01021
-IRFC,Financial Services,IRFC,EQ,INE053F01010
-ITI,Telecommunication,ITI,EQ,INE248A01017
-JINDALSAW,Capital Goods,JINDALSAW,EQ,INE324A01024
-JYOTHYLAB,Fast Moving Consumer Goods,JYOTHYLAB,EQ,INE668F01031
-KALYANKJIL,Consumer Durables,KALYANKJIL,EQ,INE303R01014
-KARURVYSYA,Financial Services,KARURVYSYA,EQ,INE036D01028
-KAYNES,Capital Goods,KAYNES,EQ,INE918Z01012
-KPITTECH,Information Technology,KPITTECH,EQ,INE04I401011
-LUPIN,Healthcare,LUPIN,EQ,INE326A01037
-MAPMYINDIA,Information Technology,MAPMYINDIA,EQ,INE0BV301023
-MAZDOCK,Capital Goods,MAZDOCK,EQ,INE249Z01012
-MCX,Financial Services,MCX,EQ,INE745G01035
-MEDANTA,Healthcare,MEDANTA,EQ,INE474Q01031
-MOTILALOFS,Financial Services,MOTILALOFS,EQ,INE338I01027
-MRPL,"Oil, Gas & Consumable Fuels",MRPL,EQ,INE103A01014
-NIACL,Financial Services,NIACL,EQ,INE470Y01017
-NLCINDIA,Power,NLCINDIA,EQ,INE589A01014
-PCBL,Chemicals,PCBL,EQ,INE602A01031
-PFC,Financial Services,PFC,EQ,INE134E01011
-PNBHOUSING,Financial Services,PNBHOUSING,EQ,INE572E01012
-POLYCAB,Capital Goods,POLYCAB,EQ,INE455K01017
-PRESTIGE,Realty,PRESTIGE,EQ,INE811K01011
-RECLTD,Financial Services,RECLTD,EQ,INE020B01018
-SAFARI,Consumer Durables,SAFARI,EQ,INE429E01023
-SHYAMMETL,Capital Goods,SHYAMMETL,EQ,INE810G01011
-SJVN,Power,SJVN,EQ,INE002L01015
-SOLARINDS,Chemicals,SOLARINDS,EQ,INE343H01029
-SONATSOFTW,Information Technology,SONATSOFTW,EQ,INE269A01021
-SUPREMEIND,Capital Goods,SUPREMEIND,EQ,INE195A01028
-SUZLON,Capital Goods,SUZLON,BE,INE040H01021
-TATAINVEST,Financial Services,TATAINVEST,BE,INE672A01018
-TORNTPOWER,Power,TORNTPOWER,EQ,INE813H01021
-TRENT,Consumer Services,TRENT,EQ,INE849A01020
-WELCORP,Capital Goods,WELCORP,EQ,INE191B01025
-ZENSARTECH,Information Technology,ZENSARTECH,EQ,INE520A01027
+ABB India Ltd.,Capital Goods,ABB,EQ,INE117A01022
+Adani Ports and Special Economic Zone Ltd.,Services,ADANIPORTS,EQ,INE742F01042
+Adani Power Ltd.,Power,ADANIPOWER,EQ,INE814H01011
+Anand Rathi Wealth Ltd.,Financial Services,ANANDRATHI,EQ,INE463V01026
+Apar Industries Ltd.,Capital Goods,APARINDS,EQ,INE372A01015
+BSE Ltd.,Financial Services,BSE,EQ,INE118H01025
+Bajaj Auto Ltd.,Automobile and Auto Components,BAJAJ-AUTO,EQ,INE917I01010
+Bharat Dynamics Ltd.,Capital Goods,BDL,EQ,INE171Z01026
+Bharat Electronics Ltd.,Capital Goods,BEL,EQ,INE263A01024
+Bharat Heavy Electricals Ltd.,Capital Goods,BHEL,EQ,INE257A01026
+Cochin Shipyard Ltd.,Capital Goods,COCHINSHIP,EQ,INE704P01025
+Cummins India Ltd.,Capital Goods,CUMMINSIND,EQ,INE298A01020
+Dixon Technologies (India) Ltd.,Consumer Durables,DIXON,EQ,INE935N01020
+Exide Industries Ltd.,Automobile and Auto Components,EXIDEIND,EQ,INE302A01020
+Godawari Power & Ispat Ltd.,Capital Goods,GPIL,EQ,INE177H01021
+HBL Power Systems Ltd.,Automobile and Auto Components,HBLPOWER,EQ,INE292B01021
+Hindustan Aeronautics Ltd.,Capital Goods,HAL,EQ,INE066F01020
+Hindustan Copper Ltd.,Metals & Mining,HINDCOPPER,EQ,INE531E01026
+Hitachi Energy India Ltd.,Capital Goods,POWERINDIA,EQ,INE07Y701011
+Housing & Urban Development Corporation Ltd.,Financial Services,HUDCO,EQ,INE031A01017
+Indian Railway Finance Corporation Ltd.,Financial Services,IRFC,EQ,INE053F01010
+Jindal Stainless Ltd.,Metals & Mining,JSL,EQ,INE220G01021
+Jupiter Wagons Ltd.,Capital Goods,JWL,EQ,INE209L01016
+Kalpataru Projects International Ltd.,Construction,KPIL,EQ,INE220B01022
+Kalyan Jewellers India Ltd.,Consumer Durables,KALYANKJIL,EQ,INE303R01014
+Mahindra & Mahindra Ltd.,Automobile and Auto Components,M&M,EQ,INE101A01026
+Mangalore Refinery & Petrochemicals Ltd.,Oil Gas & Consumable Fuels,MRPL,EQ,INE103A01014
+Mazagoan Dock Shipbuilders Ltd.,Capital Goods,MAZDOCK,EQ,INE249Z01012
+Motilal Oswal Financial Services Ltd.,Financial Services,MOTILALOFS,EQ,INE338I01027
+NBCC (India) Ltd.,Construction,NBCC,EQ,INE095N01031
+NHPC Ltd.,Power,NHPC,EQ,INE848E01016
+National Aluminium Co. Ltd.,Metals & Mining,NATIONALUM,EQ,INE139A01034
+Oil India Ltd.,Oil Gas & Consumable Fuels,OIL,EQ,INE274J01014
+Power Finance Corporation Ltd.,Financial Services,PFC,EQ,INE134E01011
+Prestige Estates Projects Ltd.,Realty,PRESTIGE,EQ,INE811K01011
+Punjab National Bank,Financial Services,PNB,EQ,INE160A01022
+REC Ltd.,Financial Services,RECLTD,EQ,INE020B01018
+Rail Vikas Nigam Ltd.,Construction,RVNL,EQ,INE415G01027
+SJVN Ltd.,Power,SJVN,EQ,INE002L01015
+Samvardhana Motherson International Ltd.,Automobile and Auto Components,MOTHERSON,EQ,INE775A01035
+Siemens Ltd.,Capital Goods,SIEMENS,EQ,INE003A01024
+Sobha Ltd.,Realty,SOBHA,EQ,INE671H01015
+Solar Industries India Ltd.,Chemicals,SOLARINDS,EQ,INE343H01029
+Suzlon Energy Ltd.,Capital Goods,SUZLON,EQ,INE040H01021
+Tata Power Co. Ltd.,Power,TATAPOWER,EQ,INE245A01021
+Thermax Ltd.,Capital Goods,THERMAX,EQ,INE152A01029
+Titagarh Rail Systems Ltd.,Capital Goods,TITAGARH,EQ,INE615H01020
+Torrent Power Ltd.,Power,TORNTPOWER,EQ,INE813H01021
+Trent Ltd.,Consumer Services,TRENT,EQ,INE849A01020
+Zydus Lifesciences Ltd.,Healthcare,ZYDUSLIFE,EQ,INE010B01027

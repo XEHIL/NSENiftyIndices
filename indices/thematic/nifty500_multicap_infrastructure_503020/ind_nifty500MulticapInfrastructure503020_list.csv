@@ -1,7 +1,7 @@
 Company Name,Industry,Symbol,Series,ISIN Code
 ACC Ltd.,Construction Materials,ACC,EQ,INE012A01025
 Adani Ports and Special Economic Zone Ltd.,Services,ADANIPORTS,EQ,INE742F01042
-Aegis Logistics Ltd.,"Oil, Gas & Consumable Fuels",AEGISCHEM,EQ,INE208C01025
+Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,AEGISLOG,EQ,INE208C01025
 Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,ARE&M,EQ,INE885A01032
 Ambuja Cements Ltd.,Construction Materials,AMBUJACEM,EQ,INE079A01024
 Apollo Hospitals Enterprise Ltd.,Healthcare,APOLLOHOSP,EQ,INE437A01024
@@ -10,13 +10,13 @@ Asahi India Glass Ltd.,Automobile and Auto Components,ASAHIINDIA,EQ,INE439A01020
 Ashok Leyland Ltd.,Capital Goods,ASHOKLEY,EQ,INE208A01029
 Balkrishna Industries Ltd.,Automobile and Auto Components,BALKRISIND,EQ,INE787D01026
 Bharat Heavy Electricals Ltd.,Capital Goods,BHEL,EQ,INE257A01026
-Bharat Petroleum Corporation Ltd.,"Oil, Gas & Consumable Fuels",BPCL,EQ,INE029A01011
+Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,BPCL,EQ,INE029A01011
 Bharti Airtel Ltd.,Telecommunication,BHARTIARTL,EQ,INE397D01024
 Birla Corporation Ltd.,Construction Materials,BIRLACORPN,EQ,INE340A01012
 Brigade Enterprises Ltd.,Realty,BRIGADE,EQ,INE791I01019
 CESC Ltd.,Power,CESC,EQ,INE486A01021
 CIE Automotive India Ltd.,Automobile and Auto Components,CIEINDIA,EQ,INE536H01010
-Castrol India Ltd.,"Oil, Gas & Consumable Fuels",CASTROLIND,EQ,INE172A01027
+Castrol India Ltd.,Oil Gas & Consumable Fuels,CASTROLIND,EQ,INE172A01027
 Cera Sanitaryware Ltd,Consumer Durables,CERA,EQ,INE739E01017
 Container Corporation of India Ltd.,Services,CONCOR,EQ,INE111A01025
 Cummins India Ltd.,Capital Goods,CUMMINSIND,EQ,INE298A01020
@@ -29,38 +29,38 @@ Global Health Ltd.,Healthcare,MEDANTA,EQ,INE474Q01031
 Godrej Properties Ltd.,Realty,GODREJPROP,EQ,INE484J01027
 Grasim Industries Ltd.,Construction Materials,GRASIM,EQ,INE047A01021
 Great Eastern Shipping Co. Ltd.,Services,GESHIP,EQ,INE017A01032
-Gujarat Gas Ltd.,"Oil, Gas & Consumable Fuels",GUJGASLTD,EQ,INE844O01030
-Gujarat State Petronet Ltd.,"Oil, Gas & Consumable Fuels",GSPL,EQ,INE246F01010
+Gujarat Gas Ltd.,Oil Gas & Consumable Fuels,GUJGASLTD,EQ,INE844O01030
+Gujarat State Petronet Ltd.,Oil Gas & Consumable Fuels,GSPL,EQ,INE246F01010
 HFCL Ltd.,Telecommunication,HFCL,EQ,INE548A01028
-Hindustan Petroleum Corporation Ltd.,"Oil, Gas & Consumable Fuels",HINDPETRO,EQ,INE094A01015
+Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,HINDPETRO,EQ,INE094A01015
 India Cements Ltd.,Construction Materials,INDIACEM,EQ,INE383A01012
 Indian Hotels Co. Ltd.,Consumer Services,INDHOTEL,EQ,INE053A01029
-Indian Oil Corporation Ltd.,"Oil, Gas & Consumable Fuels",IOC,EQ,INE242A01010
-Indraprastha Gas Ltd.,"Oil, Gas & Consumable Fuels",IGL,EQ,INE203G01027
+Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels,IOC,EQ,INE242A01010
+Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels,IGL,EQ,INE203G01027
 Indus Towers Ltd.,Telecommunication,INDUSTOWER,EQ,INE121J01017
 J.K. Cement Ltd.,Construction Materials,JKCEMENT,EQ,INE823G01014
 JK Lakshmi Cement Ltd.,Construction Materials,JKLAKSHMI,EQ,INE786A01032
 Jubilant Foodworks Ltd.,Consumer Services,JUBLFOOD,EQ,INE797F01020
 Kalpataru Projects International Ltd.,Construction,KPIL,EQ,INE220B01022
 Kaynes Technology India Ltd.,Capital Goods,KAYNES,EQ,INE918Z01012
-Kec International Ltd.,Capital Goods,KEC,EQ,INE389H01022
+Kec International Ltd.,Construction,KEC,EQ,INE389H01022
 Krishna Institute of Medical Sciences Ltd.,Healthcare,KIMS,EQ,INE967H01017
 Larsen & Toubro Ltd.,Construction,LT,EQ,INE018A01030
 Lemon Tree Hotels Ltd.,Consumer Services,LEMONTREE,EQ,INE970X01018
 MRF Ltd.,Automobile and Auto Components,MRF,EQ,INE883A01011
-Mahanagar Gas Ltd.,"Oil, Gas & Consumable Fuels",MGL,EQ,INE002S01010
+Mahanagar Gas Ltd.,Oil Gas & Consumable Fuels,MGL,EQ,INE002S01010
 Max Healthcare Institute Ltd.,Healthcare,MAXHEALTH,EQ,INE027H01010
 NCC Ltd.,Construction,NCC,EQ,INE868B01028
 NTPC Ltd.,Power,NTPC,EQ,INE733E01010
 Narayana Hrudayalaya Ltd.,Healthcare,NH,EQ,INE410P01011
 Oberoi Realty Ltd.,Realty,OBEROIRLTY,EQ,INE093I01010
-Oil & Natural Gas Corporation Ltd.,"Oil, Gas & Consumable Fuels",ONGC,EQ,INE213A01029
+Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels,ONGC,EQ,INE213A01029
 PNC Infratech Ltd.,Construction,PNCINFRA,EQ,INE195J01029
-Petronet LNG Ltd.,"Oil, Gas & Consumable Fuels",PETRONET,EQ,INE347G01014
+Petronet LNG Ltd.,Oil Gas & Consumable Fuels,PETRONET,EQ,INE347G01014
 Power Grid Corporation of India Ltd.,Power,POWERGRID,EQ,INE752E01010
 Praj Industries Ltd.,Capital Goods,PRAJIND,EQ,INE074A01025
 Redington Ltd.,Services,REDINGTON,EQ,INE891D01026
-Reliance Industries Ltd.,"Oil, Gas & Consumable Fuels",RELIANCE,EQ,INE002A01018
+Reliance Industries Ltd.,Oil Gas & Consumable Fuels,RELIANCE,EQ,INE002A01018
 Route Mobile Ltd.,Telecommunication,ROUTE,EQ,INE450U01017
 Sapphire Foods India Ltd.,Consumer Services,SAPPHIRE,EQ,INE806T01012
 Shree Cement Ltd.,Construction Materials,SHREECEM,EQ,INE070A01015

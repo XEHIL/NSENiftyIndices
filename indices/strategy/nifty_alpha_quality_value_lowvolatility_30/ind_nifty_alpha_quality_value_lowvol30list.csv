@@ -1,9 +1,8 @@
 Company Name,Industry,Symbol,Series,ISIN Code
-Abbott India Ltd.,Healthcare,ABBOTINDIA,EQ,INE358A01014
-Alkem Laboratories Ltd.,Healthcare,ALKEM,EQ,INE540L01014
 Asian Paints Ltd.,Consumer Durables,ASIANPAINT,EQ,INE021A01026
 Bajaj Auto Ltd.,Automobile and Auto Components,BAJAJ-AUTO,EQ,INE917I01010
 Bharat Electronics Ltd.,Capital Goods,BEL,EQ,INE263A01024
+Bosch Ltd.,Automobile and Auto Components,BOSCHLTD,EQ,INE323A01026
 Britannia Industries Ltd.,Fast Moving Consumer Goods,BRITANNIA,EQ,INE216A01030
 Coal India Ltd.,Oil Gas & Consumable Fuels,COALINDIA,EQ,INE522F01014
 Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,COLPAL,EQ,INE259A01022
@@ -25,6 +24,7 @@ Oracle Financial Services Software Ltd.,Information Technology,OFSS,EQ,INE881D01
 Petronet LNG Ltd.,Oil Gas & Consumable Fuels,PETRONET,EQ,INE347G01014
 Power Finance Corporation Ltd.,Financial Services,PFC,EQ,INE134E01011
 REC Ltd.,Financial Services,RECLTD,EQ,INE020B01018
+Sun Pharmaceutical Industries Ltd.,Healthcare,SUNPHARMA,EQ,INE044A01036
 Tata Consultancy Services Ltd.,Information Technology,TCS,EQ,INE467B01029
 Tech Mahindra Ltd.,Information Technology,TECHM,EQ,INE669C01036
 Wipro Ltd.,Information Technology,WIPRO,EQ,INE075A01022
