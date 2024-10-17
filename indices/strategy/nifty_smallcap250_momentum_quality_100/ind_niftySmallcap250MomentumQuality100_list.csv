@@ -1,6 +1,7 @@
 Company Name,Industry,Symbol,Series,ISIN Code
 360 ONE WAM Ltd.,Financial Services,360ONE,EQ,INE466L01038
 Action Construction Equipment Ltd.,Capital Goods,ACE,EQ,INE731H01025
+Aditya Birla Real Estate Ltd.,Forest Materials,ABREL,EQ,INE055A01016
 Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,AEGISLOG,EQ,INE208C01025
 Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,ARE&M,EQ,INE885A01032
 Amber Enterprises India Ltd.,Consumer Durables,AMBER,EQ,INE371P01015
@@ -18,10 +19,9 @@ Caplin Point Laboratories Ltd.,Healthcare,CAPLIPOINT,EQ,INE475E01026
 Capri Global Capital Ltd.,Financial Services,CGCL,EQ,INE180C01042
 Castrol India Ltd.,Oil Gas & Consumable Fuels,CASTROLIND,EQ,INE172A01027
 Central Depository Services (India) Ltd.,Financial Services,CDSL,EQ,INE736A01011
-Century Textile & Industries Ltd.,Forest Materials,CENTURYTEX,EQ,INE055A01016
 Chambal Fertilizers & Chemicals Ltd.,Chemicals,CHAMBLFERT,EQ,INE085A01013
 Chennai Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,CHENNPETRO,EQ,INE178A01016
-Cochin Shipyard Ltd.,Capital Goods,COCHINSHIP,EQ,INE704P01025
+Cochin Shipyard Ltd.,Capital Goods,COCHINSHIP,BE,INE704P01025
 CreditAccess Grameen Ltd.,Financial Services,CREDITACC,EQ,INE741K01010
 Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,CROMPTON,EQ,INE299U01018
 Cyient Ltd.,Information Technology,CYIENT,EQ,INE136B01020
@@ -36,7 +36,7 @@ Finolex Industries Ltd.,Capital Goods,FINPIPE,EQ,INE183A01024
 Firstsource Solutions Ltd.,Services,FSL,EQ,INE684F01012
 Garden Reach Shipbuilders & Engineers Ltd.,Capital Goods,GRSE,EQ,INE382Z01011
 Glenmark Pharmaceuticals Ltd.,Healthcare,GLENMARK,EQ,INE935A01035
-Godawari Power & Ispat Ltd.,Capital Goods,GPIL,EQ,INE177H01021
+Godawari Power & Ispat Ltd.,Capital Goods,GPIL,EQ,INE177H01039
 Godfrey Phillips India Ltd.,Fast Moving Consumer Goods,GODFRYPHLP,EQ,INE260B01028
 Graphite India Ltd.,Capital Goods,GRAPHITE,EQ,INE371A01025
 Great Eastern Shipping Co. Ltd.,Services,GESHIP,EQ,INE017A01032
@@ -59,7 +59,7 @@ Intellect Design Arena Ltd.,Information Technology,INTELLECT,EQ,INE306R01017
 JBM Auto Ltd.,Automobile and Auto Components,JBMA,EQ,INE927D01044
 JK Lakshmi Cement Ltd.,Construction Materials,JKLAKSHMI,EQ,INE786A01032
 JK Paper Ltd.,Forest Materials,JKPAPER,EQ,INE789E01012
-Jindal Saw Ltd.,Capital Goods,JINDALSAW,EQ,INE324A01024
+Jindal Saw Ltd.,Capital Goods,JINDALSAW,EQ,INE324A01032
 Jupiter Wagons Ltd.,Capital Goods,JWL,EQ,INE209L01016
 Jyothy Labs Ltd.,Fast Moving Consumer Goods,JYOTHYLAB,EQ,INE668F01031
 KSB Ltd.,Capital Goods,KSB,EQ,INE999A01023
